@@ -4,9 +4,7 @@ import requests,random,json,time,sys,os,re
 # Created by XxxOM4RTEAMxxX
 # Update 26 january 2020 21:57
 # i will update that soon
-# Made by me
- ---------------------------------------------------------------
-
+# Made by OM4TEAM
 # -----------------------WARNA----------------------------
 p = '\x1b[0m'
 m = '\x1b[91m'
